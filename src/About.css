@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Merriweather+Sans:wght@800&display=swap');
+
+h1 {
+    padding-top:30px;
+    font-family: 'Merriweather Sans', sans-serif;    
+}
+
+.mobileP {
+    font-family: 'Lato', sans-serif;
+color:#666;
+}
+
+h5 {
+    font-family: 'Merriweather Sans', sans-serif;    
+
+}
